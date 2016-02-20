@@ -2,11 +2,11 @@
   "name": "twig-renderer",
   "version": "1.0.0",
   "description": "Renders twig templates to html files",
-  "repository": "",
+  "repository": "https://github.com/Ashot-KR/twig-renderer",
   "author": {
     "name": "Dmitriy Poluektov",
     "email": "dmitry.a@k-r-w.ru",
-    "url": "https://github.com/Ashot-KR/twig-renderer"
+    "url": "https://github.com/Ashot-KR"
   },
   "keywords": [
     "gruntplugin",
