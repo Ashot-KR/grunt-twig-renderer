@@ -1,6 +1,6 @@
 {
   "name": "grunt-twig-renderer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Renders twig templates to html files",
   "repository": "https://github.com/Ashot-KR/grunt-twig-renderer",
   "author": {
