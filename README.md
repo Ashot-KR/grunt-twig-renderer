@@ -1,6 +1,6 @@
-# twig-renderer
+# grunt-twig-renderer
 
-> Renders twig templates to html files
+> Grunt plugin for rendering twig templates to html files
 
 ## Getting Started
 This plugin requires Grunt.
